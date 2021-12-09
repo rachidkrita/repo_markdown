@@ -14,7 +14,7 @@ on en *italique* et pourquoi pas ***Les deux***
 3. ordonées
 
 
-voici un peu 'de code' au millieu d'ue phrase
+voici un peu `de code` au millieu d'ue phrase
 
 ```
 bloc de code
