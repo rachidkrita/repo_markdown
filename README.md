@@ -1,9 +1,9 @@
-#Titre
-##Sous titre
+# Titre
+## Sous titre
 ### sous sous titre
 
-je peux mettre des textes  ** en gras **
-on en *italique* et pourquoi pas ***Les deux ***
+je peux mettre des textes  **en gras**
+on en *italique* et pourquoi pas ***Les deux***
 
 - ceci
 - est une liste
